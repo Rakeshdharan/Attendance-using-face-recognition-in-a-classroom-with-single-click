@@ -17,4 +17,4 @@ Team Members :
                 Sridhar A,
                 Keerthivaasan K V R.
                
-Mentor : Raffik R, Assistant Professor
+Mentor : Raffik R, Assistant Professor.
