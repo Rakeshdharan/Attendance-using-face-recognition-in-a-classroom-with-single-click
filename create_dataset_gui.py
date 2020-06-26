@@ -124,7 +124,7 @@ def cancel():
 
 
 window = tk.Tk()
-window.title('Crete Dataset')
+window.title('Create Dataset')
 
 frame_1 = tk.Frame(window,width  = 900, height = 100 , bg = "lightgreen")
 frame_1.pack()
@@ -134,7 +134,7 @@ frame_1.rowconfigure(0,weight = 1 , minsize = 25)
 frame_1.columnconfigure(0,weight = 1 , minsize = 900)
 
 
-label = tk.Label(master = frame_1, text = "Crete dataset", bg = "lightgreen", fg = 'red')
+label = tk.Label(master = frame_1, text = "Create dataset", bg = "lightgreen", fg = 'red')
 label['font'] = font.Font(size = 30)
 label.grid(row = 0, column = 0,sticky = "news", padx = 5)
 
