@@ -12,13 +12,9 @@ College Name : Kumaraguru College of Technology, Coimbatore.
 
 Team Members :
                 Rakesh D 
-
-                         Samvasan P
-                         
-                                        Mohan A
-                        
-                        Sridhar A
-               
-               Keerthivaasan K V R
+                Samvasan P
+                Mohan A
+                Sridhar A
+                Keerthivaasan K V R
                
 Mentor : Raffik R, Assistant Professor
