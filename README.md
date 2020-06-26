@@ -18,3 +18,15 @@ Team Members :
                 Keerthivaasan K V R.
                
 Mentor : Raffik R, Assistant Professor.
+
+
+
+
+# Instructions:
+1. Check whether all the dependencies are installed.
+
+2. Kindly change location of dependent files like attendance.xlsx location in create_dataset_gui.py file.
+
+3. In update various options are available to post attendance like from existing video or photo or live streaming.
+
+4. Everytime Training datasets will be updated using the datasets from update_attendance_gui.py which recognise trained faces and unknown faces.
