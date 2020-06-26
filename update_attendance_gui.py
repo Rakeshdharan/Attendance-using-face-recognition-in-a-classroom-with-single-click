@@ -145,7 +145,7 @@ video  = False
 
 
 def video_load(cap,video,unk_samp):
-    prev_val,prev_valu,present_list=[],[]
+    prev_val,prev_valu,present_list=[],[],[]
     present_roll,absent_roll = '',''
     while video:
         
