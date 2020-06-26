@@ -30,3 +30,7 @@ Mentor : Raffik R, Assistant Professor.
 3. In update various options are available to post attendance like from existing video or photo or live streaming.
 
 4. Everytime Training datasets will be updated using the datasets from update_attendance_gui.py which recognise trained faces and unknown faces.
+
+5. Required Dependencies are mentioned in presentation which is avialable in here.
+
+6. Demonstration Video is avaialable in demo folder for your reference " how this process goes ? "
